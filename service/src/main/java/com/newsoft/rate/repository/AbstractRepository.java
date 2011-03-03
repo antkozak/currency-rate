@@ -22,6 +22,7 @@ public abstract class AbstractRepository<T, K extends java.io.Serializable> impl
         query.setOrdering("when DESC");
         List<T> entries = (List<T>) query.execute();
         return entries;
+        //test
     }
 
     /**
