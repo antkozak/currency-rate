@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<binding>
+    <namespace uri="http://www.newsoft.com/kurs/schemas" prefix="" default="elements"/>
+    <mapping ns="http://www.newsoft.com/kurs/schemas" class="com.newsoft.rate.model.DailyExchangeRatesImpl"
+             name="dailyExchangeRates">
+        <value style="attribute" name="rateDate" field="rateDate"
+               serializer="com.newsoft.common.DateSerializer.serializeDate"
+               deserializer="com.newsoft.common.DateSerializer.deserializeDate" usage="required"/>
+        <collection create-type="java.util.HashSet" field="rates"
+                    item-type="com.newsoft.rate.model.CurrencyRateImpl"
+                    usage="optional"/>
+    </mapping>
+
+    <mapping ns="http://www.newsoft.com/kurs/schemas" class="com.newsoft.rate.model.CurrencyRateImpl" name="currencyRate">
+        <!-- value style="attribute" name="id" field="id" type="java.lang.Long" usage="required"/ -->
+        <value style="attribute" name="code" field="code" usage="required"/>
+        <value style="attribute" name="name" field="name" usage="required"/>
+        <value style="attribute" name="rate" field="rate" usage="required"
+               deserializer="com.newsoft.common.NumberSerializer.deserializeDouble" />
+    </mapping>
+</binding>

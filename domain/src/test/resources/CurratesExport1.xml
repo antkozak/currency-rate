@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<EXCHANGE_CURRENCY Version="1.0">
+  <LIST_R_DATE>
+    <R_DATE>
+      <DATE>Sat, 01 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 01 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4030.0000</BUY>
+              <SELL>4110.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 01 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.6000</BUY>
+              <SELL>100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 01 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3033.0000</BUY>
+              <SELL>3060.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 01 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 03 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 03 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4015.0000</BUY>
+              <SELL>4090.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 03 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.6000</BUY>
+              <SELL>100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 03 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3033.0000</BUY>
+              <SELL>3060.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 03 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 04 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 04 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4025.0000</BUY>
+              <SELL>4100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 04 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.5000</BUY>
+              <SELL>100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 04 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3032.0000</BUY>
+              <SELL>3059.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 04 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 05 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 05 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4015.0000</BUY>
+              <SELL>4090.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 05 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.5000</BUY>
+              <SELL>100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 05 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3035.0000</BUY>
+              <SELL>3061.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 05 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 06 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 06 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3980.0000</BUY>
+              <SELL>4055.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 06 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.5000</BUY>
+              <SELL>100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 06 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3035.0000</BUY>
+              <SELL>3062.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 06 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 07 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 07 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3970.0000</BUY>
+              <SELL>4050.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 07 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.7000</BUY>
+              <SELL>100.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 07 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3038.0000</BUY>
+              <SELL>3067.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 07 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 10 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 10 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3910.0000</BUY>
+              <SELL>3985.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 10 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.7000</BUY>
+              <SELL>99.6000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 10 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3067.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 10 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 11 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 11 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3925.0000</BUY>
+              <SELL>4000.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 11 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>97.0000</BUY>
+              <SELL>99.8000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 11 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3047.0000</BUY>
+              <SELL>3075.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 11 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 11 Jan 2011 16:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 11 Jan 2011 16:00:00 GMT</DATE>
+              <BUY>3930.0000</BUY>
+              <SELL>4000.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 11 Jan 2011 16:00:00 GMT</DATE>
+              <BUY>97.0000</BUY>
+              <SELL>100.2000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 11 Jan 2011 16:00:00 GMT</DATE>
+              <BUY>3050.0000</BUY>
+              <SELL>3075.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 11 Jan 2011 16:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 12 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 12 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3950.0000</BUY>
+              <SELL>4020.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 12 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>96.6000</BUY>
+              <SELL>100.5000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 12 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3052.0000</BUY>
+              <SELL>3077.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 12 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 13 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 13 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3975.0000</BUY>
+              <SELL>4050.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 13 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>97.3000</BUY>
+              <SELL>101.2000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 13 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3052.0000</BUY>
+              <SELL>3076.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 13 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 14 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 14 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4010.0000</BUY>
+              <SELL>4085.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 14 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.1000</BUY>
+              <SELL>102.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 14 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3045.0000</BUY>
+              <SELL>3070.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 14 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 14 Jan 2011 13:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 14 Jan 2011 13:00:00 GMT</DATE>
+              <BUY>4040.0000</BUY>
+              <SELL>4115.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 14 Jan 2011 13:00:00 GMT</DATE>
+              <BUY>98.1000</BUY>
+              <SELL>102.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 14 Jan 2011 13:00:00 GMT</DATE>
+              <BUY>3042.0000</BUY>
+              <SELL>3070.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 14 Jan 2011 13:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Sat, 15 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 15 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4040.0000</BUY>
+              <SELL>4115.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 15 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.6000</BUY>
+              <SELL>102.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 15 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3042.0000</BUY>
+              <SELL>3070.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 15 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 17 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 17 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4040.0000</BUY>
+              <SELL>4115.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 17 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.6000</BUY>
+              <SELL>101.9000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 17 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3042.0000</BUY>
+              <SELL>3070.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 17 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 17 Jan 2011 14:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 17 Jan 2011 14:00:00 GMT</DATE>
+              <BUY>4025.0000</BUY>
+              <SELL>4095.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 17 Jan 2011 14:00:00 GMT</DATE>
+              <BUY>98.6000</BUY>
+              <SELL>101.9000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 17 Jan 2011 14:00:00 GMT</DATE>
+              <BUY>3046.0000</BUY>
+              <SELL>3070.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 17 Jan 2011 14:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 18 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 18 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4040.0000</BUY>
+              <SELL>4115.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 18 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.4000</BUY>
+              <SELL>102.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 18 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3046.0000</BUY>
+              <SELL>3075.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 18 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 19 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 19 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4085.0000</BUY>
+              <SELL>4160.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 19 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.9000</BUY>
+              <SELL>102.7000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 19 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3045.0000</BUY>
+              <SELL>3075.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 19 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 20 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 20 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4080.0000</BUY>
+              <SELL>4155.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 20 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.1000</BUY>
+              <SELL>102.9000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 20 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3045.0000</BUY>
+              <SELL>3075.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 20 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 21 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 21 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4095.0000</BUY>
+              <SELL>4165.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 21 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.8000</BUY>
+              <SELL>102.5000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 21 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3046.0000</BUY>
+              <SELL>3076.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 21 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Sat, 22 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 22 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4100.0000</BUY>
+              <SELL>4175.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 22 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.5000</BUY>
+              <SELL>102.4000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 22 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3042.0000</BUY>
+              <SELL>3077.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 22 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 24 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 24 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4115.0000</BUY>
+              <SELL>4195.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 24 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>98.6000</BUY>
+              <SELL>102.5000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 24 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3043.0000</BUY>
+              <SELL>3077.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 24 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 25 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 25 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4125.0000</BUY>
+              <SELL>4200.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 25 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.0000</BUY>
+              <SELL>102.8000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 25 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3076.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 25 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 26 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 26 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4130.0000</BUY>
+              <SELL>4200.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 26 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.1000</BUY>
+              <SELL>103.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 26 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3072.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 26 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 27 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 27 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4130.0000</BUY>
+              <SELL>4200.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 27 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.1000</BUY>
+              <SELL>103.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 27 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3038.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 27 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 28 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 28 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4140.0000</BUY>
+              <SELL>4210.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 28 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.6000</BUY>
+              <SELL>103.5000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 28 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3038.0000</BUY>
+              <SELL>3072.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 28 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Sat, 29 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 29 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4145.0000</BUY>
+              <SELL>4215.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 29 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.6000</BUY>
+              <SELL>103.3000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 29 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3038.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 29 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 31 Jan 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 31 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>4120.0000</BUY>
+              <SELL>4200.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 31 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>99.6000</BUY>
+              <SELL>103.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 31 Jan 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 31 Jan 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 01 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 01 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4150.0000</BUY>
+              <SELL>4230.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 01 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>99.3000</BUY>
+              <SELL>103.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 01 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3042.0000</BUY>
+              <SELL>3075.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 01 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 02 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 02 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4190.0000</BUY>
+              <SELL>4265.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 02 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>99.7000</BUY>
+              <SELL>103.6000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 02 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 02 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 03 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 03 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4175.0000</BUY>
+              <SELL>4250.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 03 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.1000</BUY>
+              <SELL>103.7000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 03 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3038.0000</BUY>
+              <SELL>3066.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 03 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 04 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 04 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4130.0000</BUY>
+              <SELL>4205.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 04 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.4000</BUY>
+              <SELL>103.9000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 04 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3038.0000</BUY>
+              <SELL>3066.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 04 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Sat, 05 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 05 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4120.0000</BUY>
+              <SELL>4190.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 05 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.3000</BUY>
+              <SELL>104.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 05 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 05 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 07 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 07 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4125.0000</BUY>
+              <SELL>4188.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 07 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.4000</BUY>
+              <SELL>104.2000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 07 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3043.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 07 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 08 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 08 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4130.0000</BUY>
+              <SELL>4185.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 08 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.6000</BUY>
+              <SELL>104.5000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 08 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3043.0000</BUY>
+              <SELL>3071.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 08 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 09 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 09 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4135.0000</BUY>
+              <SELL>4188.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 09 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.8000</BUY>
+              <SELL>104.6000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 09 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3040.0000</BUY>
+              <SELL>3068.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 09 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 10 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 10 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4145.0000</BUY>
+              <SELL>4210.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 10 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.7000</BUY>
+              <SELL>104.4000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 10 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3043.0000</BUY>
+              <SELL>3069.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 10 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 11 Feb 2011 09:30:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 11 Feb 2011 09:30:00 GMT</DATE>
+              <BUY>4120.0000</BUY>
+              <SELL>4190.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 11 Feb 2011 09:30:00 GMT</DATE>
+              <BUY>100.6000</BUY>
+              <SELL>104.2000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 11 Feb 2011 09:30:00 GMT</DATE>
+              <BUY>3043.0000</BUY>
+              <SELL>3070.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 11 Feb 2011 09:30:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Sat, 12 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 12 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4095.0000</BUY>
+              <SELL>4165.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 12 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.8000</BUY>
+              <SELL>104.4000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 12 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3043.0000</BUY>
+              <SELL>3074.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 12 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 14 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 14 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4100.0000</BUY>
+              <SELL>4165.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 14 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>100.9000</BUY>
+              <SELL>104.5000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 14 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3045.0000</BUY>
+              <SELL>3074.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 14 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 15 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 15 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4100.0000</BUY>
+              <SELL>4160.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 15 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.3000</BUY>
+              <SELL>105.2000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 15 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3048.0000</BUY>
+              <SELL>3077.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 15 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 16 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 16 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4100.0000</BUY>
+              <SELL>4165.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 16 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.0000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 16 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3050.0000</BUY>
+              <SELL>3079.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 16 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Wed, 16 Feb 2011 14:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Wed, 16 Feb 2011 14:00:00 GMT</DATE>
+              <BUY>4115.0000</BUY>
+              <SELL>4175.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Wed, 16 Feb 2011 14:00:00 GMT</DATE>
+              <BUY>101.0000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Wed, 16 Feb 2011 14:00:00 GMT</DATE>
+              <BUY>3048.0000</BUY>
+              <SELL>3079.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Wed, 16 Feb 2011 14:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 17 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 17 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4115.0000</BUY>
+              <SELL>4180.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 17 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.2000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 17 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3048.0000</BUY>
+              <SELL>3078.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 17 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Thu, 17 Feb 2011 14:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Thu, 17 Feb 2011 14:00:00 GMT</DATE>
+              <BUY>4120.0000</BUY>
+              <SELL>4180.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Thu, 17 Feb 2011 14:00:00 GMT</DATE>
+              <BUY>101.2000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Thu, 17 Feb 2011 14:00:00 GMT</DATE>
+              <BUY>3051.0000</BUY>
+              <SELL>3078.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Thu, 17 Feb 2011 14:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Fri, 18 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Fri, 18 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4125.0000</BUY>
+              <SELL>4190.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Fri, 18 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.5000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Fri, 18 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3052.0000</BUY>
+              <SELL>3080.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Fri, 18 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Sat, 19 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Sat, 19 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4125.0000</BUY>
+              <SELL>4190.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Sat, 19 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.3000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Sat, 19 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3050.0000</BUY>
+              <SELL>3080.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Sat, 19 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Mon, 21 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Mon, 21 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4135.0000</BUY>
+              <SELL>4210.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Mon, 21 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.5000</BUY>
+              <SELL>105.3000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Mon, 21 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3050.0000</BUY>
+              <SELL>3080.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Mon, 21 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+    <R_DATE>
+      <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4140.0000</BUY>
+              <SELL>4215.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.5000</BUY>
+              <SELL>105.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3052.0000</BUY>
+              <SELL>3079.0000</SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 22 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+  </LIST_R_DATE>
+</EXCHANGE_CURRENCY>

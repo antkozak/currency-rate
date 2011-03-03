@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="service" annotations="JDK">
+    <test name="rate-service" verbose="10" annotations="JDK">
+        <packages>
+            <package name="com.newsoft.rate.service"/>
+            <package name="com.newsoft.rate.repository"/>
+        </packages>
+    </test>
+</suite>
+

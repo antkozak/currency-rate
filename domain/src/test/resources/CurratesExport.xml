@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<EXCHANGE_CURRENCY Version="1.0">
+  <LIST_R_DATE>
+    <R_DATE>
+      <DATE>Tue, 22 Feb 2011 00:00:00 GMT</DATE>
+      <LIST_E_CHANNEL>
+        <E_CHANNEL Id="3">
+          <TITLE>Приорбанк нал.</TITLE>
+          <DESCRIPTION>Курсы валют "Приорбанк" ОАО</DESCRIPTION>
+          <LIST_RATE>
+            <RATE ISO="EUR" Code="978">
+              <TITLE>Евро</TITLE>
+              <CODE>978</CODE>
+              <ISO>EUR</ISO>
+              <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>4140.0000</BUY>
+              <SELL>4215.0000</SELL>
+              <D_BUY>5.0000</D_BUY>
+              <D_SELL>5.0000</D_SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="RUB" Code="643">
+              <TITLE>Российский рубль</TITLE>
+              <CODE>643</CODE>
+              <ISO>RUB</ISO>
+              <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>101.5000</BUY>
+              <SELL>105.0000</SELL>
+              <D_BUY>0.0000</D_BUY>
+              <D_SELL>-0.3000</D_SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+            <RATE ISO="USD" Code="840">
+              <TITLE>Доллар США</TITLE>
+              <CODE>840</CODE>
+              <ISO>USD</ISO>
+              <DATE>Tue, 22 Feb 2011 09:00:00 GMT</DATE>
+              <BUY>3052.0000</BUY>
+              <SELL>3079.0000</SELL>
+              <D_BUY>2.0000</D_BUY>
+              <D_SELL>-1.0000</D_SELL>
+              <QUANTITY>1</QUANTITY>
+            </RATE>
+          </LIST_RATE>
+          <L_DATE>Tue, 22 Feb 2011 09:00:00 GMT</L_DATE>
+        </E_CHANNEL>
+      </LIST_E_CHANNEL>
+    </R_DATE>
+  </LIST_R_DATE>
+</EXCHANGE_CURRENCY>
