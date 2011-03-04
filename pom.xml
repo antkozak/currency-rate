@@ -8,6 +8,7 @@
     <parent>
         <groupId>com.edmunds</groupId>
         <artifactId>global-defaults</artifactId>
+
         <version>3.0.14</version>
     </parent>
 
