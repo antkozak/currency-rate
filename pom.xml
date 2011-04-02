@@ -173,6 +173,7 @@
         <module>service</module>
         <module>war</module>
     </modules>
+
     <repositories>
         <!-- repository>
             <id>central</id>
