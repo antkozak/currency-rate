@@ -6,8 +6,6 @@ import javax.jdo.annotations.*;
  * Domain class for currency rate. 
  *
  * <p/>
- * Copyright (C) 2010 Edmunds.com
- * <p/>
  * Date: Mar 4, 2010
  *
  * @author Anton Kozak

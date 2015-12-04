@@ -7,8 +7,6 @@ import org.apache.commons.lang.math.NumberUtils;
 /**
  * Simple JIBX number serializer/deserializer.
  * <p/>
- * Copyright (C) 2010 Edmunds.com
- * <p/>
  * Date: Mar 5, 2010
  *
  * @author Anton Kozak

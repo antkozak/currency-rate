@@ -3,8 +3,6 @@ package com.newsoft.common;
 /**
  * Constants.
  * <p/>
- * Copyright (C) 2010 Edmunds.com
- * <p/>
  * Date: Mar 4, 2010
  *
  * @author Anton Kozak

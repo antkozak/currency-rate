@@ -7,8 +7,6 @@ import java.util.Set;
 /**
  * Daily exchange rates.
  * <p/>
- * Copyright (C) 2010 Edmunds.com
- * <p/>
  * Date: Feb 20, 2011
  *
  * @author Anton Kozak

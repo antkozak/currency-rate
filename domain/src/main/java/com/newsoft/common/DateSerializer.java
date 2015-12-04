@@ -8,8 +8,6 @@ import org.apache.commons.lang.StringUtils;
 /**
  * Simple JIBX date serializer/deserializer.
  * <p/>
- * Copyright (C) 2010 Edmunds.com
- * <p/>
  * Date: Mar 4, 2010
  *
  * @author Anton Kozak

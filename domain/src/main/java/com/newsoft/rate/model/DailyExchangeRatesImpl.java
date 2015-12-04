@@ -8,8 +8,6 @@ import java.util.Set;
 /**
  * Class contains daily exchange rates.
  * <p/>
- * Copyright (C) 2010 Newsoft.com
- * <p/>
  * Date: Mar 4, 2010
  *
  * @author Anton Kozak
